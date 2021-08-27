@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HilalAkdogan
 - 👀 I’m interested in IT and network
 - 🌱 I’m currently learning cisco CCNA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me hilalakdogan66@gmail.com
 
 <!---
